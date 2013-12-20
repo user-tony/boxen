@@ -52,6 +52,11 @@ github "ruby",       "6.7.2"
 github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 github "xquartz",    "1.1.0"
+github "mysql",      "1.0.0", repo: "camptocamp/puppet-mysql"
+github "xquartz",    "1.0.0"
+github "imagemagick",    "1.0.0"
+github "memcached", "1.0.0"
+
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.

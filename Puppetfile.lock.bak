@@ -89,6 +89,11 @@ GITHUBTARBALL
     inifile (1.0.0)
 
 GITHUBTARBALL
+  remote: puppetlabs/puppetlabs-mysql
+  specs:
+    mysql (1.0.0)
+
+GITHUBTARBALL
   remote: puppetlabs/puppetlabs-stdlib
   specs:
     stdlib (4.1.0)
@@ -103,6 +108,7 @@ DEPENDENCIES
   homebrew (= 1.5.1)
   hub (= 1.0.3)
   inifile (= 1.0.0)
+  mysql (= 1.0.0)
   nginx (= 1.4.2)
   nodejs (= 3.3.0)
   openssl (= 1.0.0)
